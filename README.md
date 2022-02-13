@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @apurva-nayak
+- 👀 My areas of interests are Machine Learning, Deep Learning and Test Automations. 
+- 🌱 I’m currently pursuing Deep Learning using TensorFlow
+- 💞️ I’m looking to collaborate on solving Machine Learning/Deep Learning problems 
